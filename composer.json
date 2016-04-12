@@ -3,7 +3,6 @@
     "description": "Easy generation of view composers for Laravel 5",
     "license": "MIT",
     "version" : "dev-master",
-    "stability" : "stable",
     "authors": [
         {
             "name": "David Peach",
