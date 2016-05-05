@@ -9,6 +9,7 @@
             "email": "hello@davidpea.ch"
         }
     ],
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
